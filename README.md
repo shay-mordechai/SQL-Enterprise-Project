@@ -1,6 +1,4 @@
                                                   School Management System
-3/6/24
-
 ## Stage 1:
 
 ## Description:
